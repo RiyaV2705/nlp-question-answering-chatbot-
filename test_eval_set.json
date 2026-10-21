@@ -1,0 +1,114 @@
+[
+  {
+    "id": "Q01",
+    "question": "When was Alan Turing born?",
+    "category": "AI & Computer Science",
+    "ground_truth_passage_id": "P01",
+    "ground_truth_answers": ["June 23, 1912", "June 23 1912"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q02",
+    "question": "Which German machine did Alan Turing help crack during World War II?",
+    "category": "AI & Computer Science",
+    "ground_truth_passage_id": "P01",
+    "ground_truth_answers": ["Enigma machine", "German Enigma machine", "Enigma"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q03",
+    "question": "Who introduced the Transformer architecture in 2017?",
+    "category": "AI & Computer Science",
+    "ground_truth_passage_id": "P02",
+    "ground_truth_answers": ["Ashish Vaswani and colleagues", "Ashish Vaswani", "Ashish Vaswani and colleagues at Google Brain and Google Research"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q04",
+    "question": "What does BERT stand for?",
+    "category": "AI & Computer Science",
+    "ground_truth_passage_id": "P03",
+    "ground_truth_answers": ["Bidirectional Encoder Representations from Transformers"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q05",
+    "question": "Who created DistilBERT in 2019?",
+    "category": "AI & Computer Science",
+    "ground_truth_passage_id": "P03",
+    "ground_truth_answers": ["Victor Sanh and researchers at Hugging Face", "Victor Sanh", "Hugging Face"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q06",
+    "question": "Who conceived the Python programming language?",
+    "category": "AI & Computer Science",
+    "ground_truth_passage_id": "P04",
+    "ground_truth_answers": ["Guido van Rossum", "Guido van Rossum at Centrum Wiskunde & Informatica"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q07",
+    "question": "What are the two moons of Mars?",
+    "category": "Science & Astronomy",
+    "ground_truth_passage_id": "P06",
+    "ground_truth_answers": ["Phobos and Deimos", "Phobos and Deimos,"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q08",
+    "question": "When was the James Webb Space Telescope launched?",
+    "category": "Science & Astronomy",
+    "ground_truth_passage_id": "P07",
+    "ground_truth_answers": ["December 25, 2021"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q09",
+    "question": "Where does photosynthesis take place inside plant cells?",
+    "category": "Science & Astronomy",
+    "ground_truth_passage_id": "P08",
+    "ground_truth_answers": ["chloroplasts", "cellular organelles called chloroplasts"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q10",
+    "question": "What is the official elevation of Mount Everest?",
+    "category": "Geography & Nature",
+    "ground_truth_passage_id": "P09",
+    "ground_truth_answers": ["8,848.86 metres", "8,848.86 metres (29,031.7 feet)", "8,848.86 m"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q11",
+    "question": "Who invented the World Wide Web in 1989?",
+    "category": "AI & Computer Science",
+    "ground_truth_passage_id": "P12",
+    "ground_truth_answers": ["Tim Berners-Lee", "British computer scientist Tim Berners-Lee"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q12",
+    "question": "Where did the Industrial Revolution begin?",
+    "category": "History",
+    "ground_truth_passage_id": "P11",
+    "ground_truth_answers": ["Great Britain", "Britain"],
+    "is_impossible": false
+  },
+  {
+    "id": "Q13",
+    "question": "What was the capital of the Roman Empire during the Bronze Age?",
+    "category": "Unanswerable / Fallback",
+    "ground_truth_passage_id": null,
+    "ground_truth_answers": [],
+    "is_impossible": true
+  },
+  {
+    "id": "Q14",
+    "question": "Who was the first person to walk on Pluto?",
+    "category": "Unanswerable / Fallback",
+    "ground_truth_passage_id": null,
+    "ground_truth_answers": [],
+    "is_impossible": true
+  }
+]
